@@ -1,6 +1,6 @@
 # My Simple Webpage
 
-- [About Me](#about-me)
+- [About Me](about-me.md)
 - [My Interests](#my-interests)
 - [Contact Me](#contact-me)
 
