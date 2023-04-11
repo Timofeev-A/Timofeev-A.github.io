@@ -1,6 +1,8 @@
 # My Simple Webpage
 
-Welcome to my simple webpage! Here, you'll find some information about me and my interests.
+- [About Me](#about-me)
+- [My Interests](#my-interests)
+- [Contact Me](#contact-me)
 
 ## About Me
 
